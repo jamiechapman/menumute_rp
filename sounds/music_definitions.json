@@ -1,0 +1,7 @@
+{
+  "menu": {
+    "event_name": "__music.silent",
+    "max_delay": 0,
+    "min_delay": 0
+  }
+}

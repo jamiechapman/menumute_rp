@@ -1,0 +1,16 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "__music.silent": {
+      "category": "music",
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/__silent",
+          "stream": false,
+          "volume": 0
+        }
+      ]
+    }
+  }
+}
